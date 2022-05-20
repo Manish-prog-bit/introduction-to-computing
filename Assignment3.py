@@ -13,6 +13,7 @@ for i in Num_bin:
     print(i,end="  ")
 
 #Question 2
+print("Question-2")
 print('''Welcome to the calculator. Please choose the operation
       1 - Addition
       2 - Subtraction
@@ -34,6 +35,7 @@ else:
 
 
 #Question 3
+print("Question-3")
 #A
 print("Answer-A")
 print((3+4)*5)
@@ -71,6 +73,7 @@ v=number_6-number_4
 print("Final Answer :- ",c/v)
 
 #Question 4
+print("Question-4")
 print("Printing different ranges")
 print("Answer-A")
 for i in range(5):
@@ -94,7 +97,7 @@ for i in range(5,3):
         print("")
 
 #Question 5
-print('Question-5')
+print("Question-5")
 num_h=int(input("Enter number of hydrogen atoms :- "))
 num_c=int(input("Enter number of carbon atoms :- "))
 num_o=int(input("Enter number of oxygen atoms :- "))
