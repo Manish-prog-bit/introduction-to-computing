@@ -56,7 +56,7 @@ else:
     print("YES") 
 print("")
 
-# QUESTION NO.5
+#Question 5
 print("QUESTION-5")
 print("Enter first side of triangle:-")
 side1=int(input())
@@ -76,7 +76,7 @@ Result=Result.replace("False","NO")
 print("The Answer is ",Result)
 print("")
 
-# QUESTION NO.6
+#Question 6
 print("QUESTION-6")
 a=int(input("Enter the value of a:-"))
 b=int(input("Enter the value of b:-"))
